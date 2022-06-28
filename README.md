@@ -1,0 +1,2 @@
+# ecommerce-doctrine
+Ecommerce project with doctrine. 1. Object oriented programming principles and best practices 2. Object oriented session handling. 3. DoctrineORM. 4. Basic authentication (login, session authentication, user entities, maybe remember me). 5. PHPUnit testing and test driven development (TDD). 6. Magic methods. 7. Standard PHP library (SPL). 8. Pagination / paginating records. 9. Reflection. 10. Design patterns
