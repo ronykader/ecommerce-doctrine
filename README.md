@@ -23,9 +23,9 @@ composer require --dev symfony/var-dumper phpuint/phpunit
 
 composer dump-autoload -o [-o optimize the files]
 
-composer require doctrine/orm
-composer require symfony/yaml
-composer require symfony/cache
+- composer require doctrine/orm
+- composer require symfony/yaml
+- composer require symfony/cache
 
 ## or for doctrine configuration follow this link
 
