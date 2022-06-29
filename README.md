@@ -10,3 +10,19 @@
 - Pagination / paginating records.
 - Reflection.
 - Design patterns
+
+### Essential packages
+
+composer require --dev symfony/var-dumper phpuint/phpunit
+
+    "autoload":{
+    "psr-4":{
+        "App\\": "src"
+        }
+    }
+
+composer dump-autoload -o [-o optimize the files]
+
+composer require doctrine/orm
+composer require symfony/yaml
+composer require symfony/cache
