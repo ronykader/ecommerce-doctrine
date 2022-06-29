@@ -26,3 +26,7 @@ composer dump-autoload -o [-o optimize the files]
 composer require doctrine/orm
 composer require symfony/yaml
 composer require symfony/cache
+
+#or for doctrine configuration follow this link
+
+    https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html
